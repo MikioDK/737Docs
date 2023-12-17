@@ -1,0 +1,6 @@
+@_737DocsAPI_HostAddress = http://localhost:5289
+
+GET {{_737DocsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
